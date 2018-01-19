@@ -1,0 +1,29 @@
+body {
+	  background-image: url("images/mtg.jpg");
+	  background-size: 100%;
+}
+
+html {
+  /* Positioning */
+  position: relative;
+
+  /* Box-model */
+  min-height: 100%;
+}
+
+.jumbotron {
+	background-image: url("images/planeswalker.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+
+	color: white;
+}
+
+
+.panel-title {
+	color: mediumvioletred;
+}
+
+.panel {
+	color: mediumvioletred;
+}
